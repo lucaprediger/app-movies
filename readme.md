@@ -1,5 +1,3 @@
-Copie o texto abaixo diretamente:
-
 # Desafio API - Golden Raspberry Awards
 
 Esta API RESTful foi desenvolvida para possibilitar a leitura da lista de indicados e vencedores da categoria **"Pior Filme"** do **Golden Raspberry Awards** a partir de um arquivo CSV e calcular os intervalos entre prêmios de produtores.
