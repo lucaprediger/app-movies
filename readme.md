@@ -82,7 +82,6 @@ curl -X GET "[http://localhost:8000/awards/get-awards-interval](http://localhost
 
 Para que o sistema de importação funcione corretamente (especialmente a lógica de separar nomes por vírgula ou pelo termo `"and"`), o padrão das colunas **producers** e **studios** deve ser seguido à risca, conforme o CSV disponibilizado.
 
-Adicionar ao **item 7 do README** a estrutura de pastas conforme a imagem:
 
 ## 7. Estrutura do Projeto
 
